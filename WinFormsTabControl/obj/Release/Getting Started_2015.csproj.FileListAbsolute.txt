@@ -1,0 +1,6 @@
+C:\Users\Rahul\AppData\Local\Syncfusion\EssentialStudio\14.2.0.26\Windows\Tools.Windows\Samples\TabControl\Getting Started\cs\bin\Release\TabControlAdv.exe
+C:\Users\Rahul\AppData\Local\Syncfusion\EssentialStudio\14.2.0.26\Windows\Tools.Windows\Samples\TabControl\Getting Started\cs\obj\Release\Getting Started_2015.csprojResolveAssemblyReference.cache
+C:\Users\Rahul\AppData\Local\Syncfusion\EssentialStudio\14.2.0.26\Windows\Tools.Windows\Samples\TabControl\Getting Started\cs\obj\Release\xptabs.TabControlAdvFrame.resources
+C:\Users\Rahul\AppData\Local\Syncfusion\EssentialStudio\14.2.0.26\Windows\Tools.Windows\Samples\TabControl\Getting Started\cs\obj\Release\TabControlAdv_2005.Properties.Resources.resources
+C:\Users\Rahul\AppData\Local\Syncfusion\EssentialStudio\14.2.0.26\Windows\Tools.Windows\Samples\TabControl\Getting Started\cs\obj\Release\Getting Started_2015.csproj.GenerateResource.Cache
+C:\Users\Rahul\AppData\Local\Syncfusion\EssentialStudio\14.2.0.26\Windows\Tools.Windows\Samples\TabControl\Getting Started\cs\obj\Release\TabControlAdv.exe
